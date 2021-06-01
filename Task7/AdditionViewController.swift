@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  AdditionViewController.swift
 //  Task7
 //
 //  Created by ちいつんしん on 2021/05/31.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController1: UIViewController {
+class AdditionViewController: UIViewController {
 
     @IBOutlet private weak var textField1: UITextField!
     @IBOutlet private weak var textField2: UITextField!
