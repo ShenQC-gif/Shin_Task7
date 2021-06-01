@@ -11,7 +11,7 @@
         <!--Item 2-->
         <scene sceneID="ECK-n5-P7L">
             <objects>
-                <viewController id="vIl-gu-ItS" customClass="ViewController2" customModule="Task7" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="vIl-gu-ItS" customClass="SubtractionViewController" customModule="Task7" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="FMA-RQ-g4t">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -61,7 +61,7 @@
         <!--Item 1-->
         <scene sceneID="Yr2-vs-H9t">
             <objects>
-                <viewController id="ACS-nV-Man" customClass="ViewController1" customModule="Task7" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="ACS-nV-Man" customClass="AdditionViewController" customModule="Task7" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="vtj-NP-TdF">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
